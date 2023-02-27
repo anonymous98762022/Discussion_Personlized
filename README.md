@@ -1,4 +1,5 @@
 # Discussion_Personlized
+Comments are extracted from different famous websites like dailymail, The washington Post etc
 ## Dataset consists of following columns : 
 - index: Unique id of the pair
 - genre: To which genre comments belong in this case it is Forum genre
