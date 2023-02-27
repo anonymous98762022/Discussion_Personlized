@@ -1,5 +1,5 @@
 # Discussion_Personlized
-Posts are extracted from different famous websites like dailymail, The washington Post etc
+Posts are collected from several popular websites, such as Dailymail and The Washington Post, etc.
 ## Dataset consists of following columns : 
 - index: Unique id of the post pair
 - genre: Genre of the post
@@ -10,4 +10,4 @@ Posts are extracted from different famous websites like dailymail, The washingto
 - source2: Source of the post 2
 - Sentence1: First post for which we are checking similarity
 - Sentence2: Second post for which we are checking similarity
-- Score: Similarity score of posts
+- Similarity: Similarity score of posts
