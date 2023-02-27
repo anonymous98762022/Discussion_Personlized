@@ -1,4 +1,4 @@
-# Discussion_dataset
+# Discussion Dataset
 Posts are collected from several popular websites, such as Dailymail and The Washington Post, etc.
 ## Dataset consists of following columns : 
 - index: Unique id of the post pair
